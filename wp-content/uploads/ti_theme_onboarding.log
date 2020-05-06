@@ -1,0 +1,16 @@
+[06/May/2020:07:37:00] (ℹ️): WordPress Instance Info:
+[06/May/2020:07:37:00] (ℹ️): Home URL : http://localhost/testsite
+[06/May/2020:07:37:00] (ℹ️): Site URL : http://localhost/testsite
+[06/May/2020:07:37:00] (ℹ️): WordPress Version : 5.4.1
+[06/May/2020:07:37:00] (ℹ️): Onboarding Version : 1.8.2
+[06/May/2020:07:37:00] (ℹ️): Multisite : No
+[06/May/2020:07:37:00] (ℹ️): Server Info : Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.5
+[06/May/2020:07:37:00] (ℹ️): PHP Version : 7.4.5
+[06/May/2020:07:37:00] (ℹ️): HTTPS : No
+[06/May/2020:07:37:00] (ℹ️): PHP Max Execution Time : 120
+[06/May/2020:07:37:00] (ℹ️): PHP Max Input Vars : 1000
+[06/May/2020:07:37:00] (ℹ️): Max Upload Size : 41943040
+[06/May/2020:07:37:00] (ℹ️): Plugins:
+[06/May/2020:07:37:00] (ℹ️): [PLUGIN] Elementor : v2.9.8 (Elementor.com)
+[06/May/2020:07:37:00] (ℹ️): [PLUGIN] Neve Pro Addon : v1.1.10 (ThemeIsle)
+[06/May/2020:07:37:00] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.8 (Themeisle)
